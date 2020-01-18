@@ -12,4 +12,4 @@ of different features of a new product or public opinion for a new movie
 or speech by a political candidate.
 
 # Basic Machine Learning and Natural language Processing Tools are needed
-
+![DecisionTree](https://user-images.githubusercontent.com/46878145/72670286-e7000b80-3a61-11ea-92d8-dd91d16acd94.JPG)
