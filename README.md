@@ -11,4 +11,5 @@ Sentiment analysis classifier could be useful for many applications like market 
 of different features of a new product or public opinion for a new movie
 or speech by a political candidate.
 
-#Basic Machine Learning and Natural language Processing Tools are needed
+# Basic Machine Learning and Natural language Processing Tools are needed
+
