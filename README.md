@@ -8,8 +8,13 @@ these tremendous assets of information for suppositions. Sentiment analysis or
 Opinion Mining is mining of sentiment polarities from online social media. In this project we will talk about a procedure which permits use and understanding of twitter information for sentiment analysis. We perform several steps of text pre-processing, and then experiment with multiple classification mechanisms. Using a dataset of 50000 tweets and TFIDF features, we comparison the accuracy obtained using various classifiers for this task. 
 We find that linear SVMs provide us the best accuracy results among the various classifiers tried.
 Sentiment analysis classifier could be useful for many applications like market analysis 
-of different features of a new product or public opinion for a new movie
+of different features of a new product or public opinion for a new movibe
 or speech by a political candidate.
+
+# If you want to Run this Project in your System .This is the Steps 
+# 1) Download Anaconda Enviroment and load jupyter notebook
+# 2) Just Download TwitterSentimentAnalysis.ipnyb  Jupyter Notebook .
+# 3) and Run into your System.
 
 # Basic Machine Learning and Natural language Processing Tools are needed
 ![DecisionTree](https://user-images.githubusercontent.com/46878145/72670286-e7000b80-3a61-11ea-92d8-dd91d16acd94.JPG)
