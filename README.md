@@ -16,7 +16,7 @@ or speech by a political candidate.
 # 2) Just Download TwitterSentimentAnalysis.ipnyb  Jupyter Notebook .
 # 3) and Run into your System.
 
-# Basic Machine Learning and Natural language Processing Tools are needed
+# Basic Machine Learning and Natural language Processing Tools .I Used In this Project
 ![DecisionTree](https://user-images.githubusercontent.com/46878145/72670286-e7000b80-3a61-11ea-92d8-dd91d16acd94.JPG)
 ![Knn](https://user-images.githubusercontent.com/46878145/72670319-3fcfa400-3a62-11ea-803a-7f63a01fe4a1.JPG)
 ![NaiveBayes](https://user-images.githubusercontent.com/46878145/72670320-43fbc180-3a62-11ea-8e31-9c9c14ff7974.JPG)
